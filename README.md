@@ -44,6 +44,11 @@ docker run -d \
 
 在无法联网的环境中，还可以通过 [离线安装包](https://docs.fit2cloud.com/cordys/installation/offline_installtion/) 来安装部署 Cordys CRM。
 
+### 一键部署
+
+<a href="https://repocloud.io/details/Cordys%20CRM/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/cordyscrm"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ### 访问方式
 
 - 在浏览器中打开: http://<你的服务器IP>:8081/
